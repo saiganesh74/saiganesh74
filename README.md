@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @saiganesh74
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me contact me on instagram sai._.49
+fck off niggers
