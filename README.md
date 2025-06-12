@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Ganesh Rejeti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiganesh74&label=Profile%20views&color=0e75b6&style=flat" alt="saiganesh74" /> </p>
 
-<a href="https://linkedin.com/in/sai ganesh rejeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai ganesh rejeti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saiganeshrejeti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai ganesh rejeti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
