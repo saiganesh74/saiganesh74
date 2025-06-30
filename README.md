@@ -11,6 +11,17 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiganesh74&show_icons=true&theme=radical&locale=en&layout=compact" alt="saiganesh74" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiganesh74&show_icons=true&theme=tokyonight&locale=en" alt="saiganesh74" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiganesh74&theme=dark" alt="saiganesh74" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiganesh74&show_icons=true&theme=tokyonight&locale=en" alt="saiganesh74" /></p> <br>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiganesh74&theme=dark" alt="saiganesh74" /></p><br>
+
+
+> Current Opinion
+
+```diff
+- print('Wanderer')
++ print('BUILDER')
+
+```
