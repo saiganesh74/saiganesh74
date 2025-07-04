@@ -12,9 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiganesh74&show_icons=true&theme=dracula&locale=en" alt="saiganesh74" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiganesh74&theme=dark" alt="saiganesh74" /></p>
-
-
 > Current Opinion
 
 ```diff
