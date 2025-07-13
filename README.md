@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Ganesh Rejeti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiganesh74&label=Profile%20views&color=6325c1&style=flat" alt="saiganesh74" /> </p>
-<h3 align="left"> About me :</h3>
-🤖 Robotics & AI enthusiast building real-world autonomous systems using ROS 2, Gazebo, and embedded microcontrollers. Passionate about solving problems through automation & simulation.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saiganeshrejeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiganeshrejeti" height="30" width="40" /></a>
