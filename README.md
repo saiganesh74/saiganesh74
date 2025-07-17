@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sai Ganesh Rejeti</h1>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=950&height=60&lines=Greetings%2C+wanderer!+I'm+Sai+Ganesh+Rejeti!" alt="Typing SVG" /></a>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiganesh74&label=Profile%20views&color=6325c1&style=flat" alt="saiganesh74" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
