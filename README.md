@@ -14,6 +14,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiganesh74&show_icons=true&theme=dracula&locale=en" alt="saiganesh74" /></p>
 
+---
+
+<h4>GSSoC '25 Badges</h4>
+<img src="https://github.com/user-attachments/assets/9a46f22c-630f-4a1b-8ff7-60a66119b694" alt="Contributor's badge" width="50"/>
+
+---
 > Current Opinion
 
 ```diff
