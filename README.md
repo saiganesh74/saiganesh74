@@ -10,7 +10,6 @@
 # 📊 Stats:
 <div align = 'center'>
     
-![](https://github-readme-stats.vercel.app/api?username=saiganesh74&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saiganesh74&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh74&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
